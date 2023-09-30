@@ -1,0 +1,57 @@
+body{
+    margin: 0px;
+}
+#Food{
+    border: 3px double black;
+    padding: 10px;
+    background-color: red;
+}
+#Plant{
+    border: 3px double black;
+    padding: 10px;
+    background-color: darkgreen;
+}
+#Herb{
+    border: 3px double black;
+    padding: 10px;
+    background-color: lightgreen;
+}
+#Berries{
+    border: 3px double black;
+    padding: 10px;
+    background-color: royalblue;
+}
+#Mushrooms{
+    border: 3px double black;
+    padding: 10px;
+    background-color: wheat;
+}
+#Crafted{
+    border: 3px double black;
+    padding: 10px;
+    background-color: gray;
+    color: black;
+}
+#Meat{
+    border: 3px double black;
+    padding: 10px;
+    background-color: lightcoral;
+}
+#Synthetic{
+    border: 3px double white;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+#Processed{
+    border: 3px double black;
+    padding: 10px;
+    background-color: white;
+    color: black;
+}
+.Y{
+    background-color: green;
+}
+.N{
+    background-color: red;
+}
