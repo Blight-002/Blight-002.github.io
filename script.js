@@ -84,7 +84,7 @@ function ChangeClass(elem)
     if (document.getElementById(elem).className == "N")
     {
         document.getElementById(elem).className = "Y"
-        Cookies.set('cookie'+elem, 'Y', {expires: 7});
+        Cookies.set(elem, 'Y', {expires: 7});
     }else
     {
         document.getElementById(elem).className = "N";
